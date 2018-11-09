@@ -328,7 +328,7 @@ public class DemoApplication {
 		System.out.println(StringUtils.swapCase("I am a-A*a"));
 		
 		String[] s={"a","b","c"};
-		System.out.println(StringUtil.convString(s));
+		//System.out.println(StringUtil.convString(s));
 
 		//String[] s={"a","b","c"} ;
 		//StringUtil.convString（s,"@")="a@b@c";
