@@ -330,7 +330,7 @@ public class DemoApplication {
 		String[] s={"a","b","c"};
 		//System.out.println(StringUtil.convString(s));
 
-		//String[] s={"a","b","c"} ;
+		String[] s1={"a","b","c"} ;
 		//StringUtil.convString（s,"@")="a@b@c";
 	}
 	public static void main(String[] args) {
